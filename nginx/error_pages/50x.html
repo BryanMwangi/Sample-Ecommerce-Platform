@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="./public/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Yumzies: Something terrible went wrong</title>
+  </head>
+  <body>
+    <h1
+      class="header-text"
+      style="
+        font-family: -apple-system, BlinkMacSystemFont, Inter, Roboto, system-ui,
+          Avenir, Helvetica, Arial, sans-serif;
+      "
+    >
+      :(
+    </h1>
+    <p
+      class="body-text"
+      style="
+        font-family: -apple-system, BlinkMacSystemFont, Inter, Roboto, system-ui,
+          Avenir, Helvetica, Arial, sans-serif;
+      "
+    >
+      Having diffuculties finding the right cakes or pastries the way you want
+      it? Join us at YourCake and you will be able to find and customize any
+      item to your liking.
+    </p>
+    <p
+      class="body-text top-margin"
+      style="
+        font-family: -apple-system, BlinkMacSystemFont, Inter, Roboto, system-ui,
+          Avenir, Helvetica, Arial, sans-serif;
+      "
+    >
+      Join us today!
+    </p>
+
+    <div class="info-container">
+      <img src="./public/yourcakeqr.png" alt="Yumzies" class="qr-image" />
+      <div class="info-text-container">
+        <p
+          class="info-text"
+          style="
+            font-family: -apple-system, BlinkMacSystemFont, Inter, Roboto,
+              system-ui, Avenir, Helvetica, Arial, sans-serif;
+          "
+        >
+          If you would like to download the app, scan the QR code or head over
+          to
+          <a
+            href="https://yourcake.webflow.io"
+            style="color: #fff; text-decoration: none"
+            >https://yourcake.webflow.io</a
+          >
+        </p>
+        <p
+          class="info-text"
+          style="
+            font-family: -apple-system, BlinkMacSystemFont, Inter, Roboto,
+              system-ui, Avenir, Helvetica, Arial, sans-serif;
+          "
+        >
+          If you have any questions, please contact us at via our help center.
+        </p>
+        <p
+          class="bottom-text"
+          style="
+            font-family: -apple-system, BlinkMacSystemFont, Inter, Roboto,
+              system-ui, Avenir, Helvetica, Arial, sans-serif;
+          "
+        >
+          You can do so by visiting
+          <a
+            href="https://yourcake.freshdesk.com/support/home"
+            target="_blank"
+            style="color: #fff; text-decoration: none"
+            >our Help page</a
+          >
+          to get in touch with us.
+        </p>
+      </div>
+    </div>
+  </body>
+  <style>
+    body {
+      background: linear-gradient(
+        180deg,
+        rgba(238, 28, 120, 1) 0%,
+        rgba(250, 118, 186, 1) 100%
+      );
+      max-width: 100vw;
+      height: 100vh;
+      overflow: hidden;
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+      color: white;
+      margin-left: 10%;
+    }
+    p {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      text-align: left;
+      font-weight: 200;
+      max-width: 70%;
+    }
+    .header-text {
+      width: 100%;
+      max-width: 70%;
+      text-align: left;
+      font-weight: 300;
+      font-size: 180px;
+      margin: 0;
+      padding: 0;
+      margin-bottom: 50px;
+    }
+    .body-text {
+      font-size: 25px;
+      max-width: 60%;
+    }
+    .top-margin {
+      margin-top: 40px;
+    }
+    .info-container {
+      display: flex;
+      justify-content: flex-start;
+      flex-direction: row;
+      width: 100%;
+      margin-top: 40px;
+      max-width: 70%;
+    }
+    .qr-image {
+      width: 150px;
+      height: 150px;
+      object-fit: contain;
+    }
+    .info-text-container {
+      display: flex;
+      align-items: flex-start;
+      flex-direction: column;
+      width: 100%;
+      margin-left: 40px;
+    }
+    .info-text {
+      width: 100%;
+      text-align: left;
+      margin-top: 20px;
+    }
+    .bottom-text {
+      margin-top: 10px;
+    }
+  </style>
+</html>

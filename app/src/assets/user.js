@@ -1,0 +1,128 @@
+export const currentUser = {
+  id: 1,
+  email: "johndoe@example.com",
+  name: "John Doe",
+  firstName: "John",
+  lastName: "Doe",
+  username: "johndoe",
+  name: "John Doe",
+  profilePictureUrl:
+    "https://images.unsplash.com/photo-1545996124-0501ebae84d0?q=80&w=2564&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  role: "customer",
+  address: "123 Main Street, Anytown, USA",
+};
+
+export const orders = [
+  {
+    id: 1,
+    imageUrl:
+      "https://i.pinimg.com/564x/01/a8/b2/01a8b20022d3ac8d1c0ad960e7b67466.jpg",
+    name: "Classic American Burger",
+    description:
+      "A classic American burger with a juicy beef patty, melted cheese, lettuce, tomato, pickles, and onions. Served with a side of fries and a drizzle of ketchup.",
+    price: 3600,
+    currency: "HUF",
+    rating: 4.5,
+    reviewCount: 10,
+    ingredients: [
+      "American",
+      "Burger",
+      "Classic",
+      "Juicy",
+      "Beef",
+      "Patty",
+      "Cheese",
+      "Lettuce",
+      "Tomato",
+      "Pickles",
+      "Onions",
+      "Fries",
+      "Ketchup",
+    ],
+    allergens: ["Cheese", "Beef", "Gluten", "Pork"],
+    prepTime: 5,
+    cookTime: 20,
+    totalTime: 25,
+    serving: "1 serving",
+    store: {
+      storeId: 1,
+      name: "Burger King",
+      address: "123 Main Street, Anytown, USA",
+      phone: "555-123-4567",
+      website: "https://www.burgerking.com",
+      profilePictureUrl:
+        "https://i.pinimg.com/564x/09/32/e1/0932e1bd4865762a1e37e829fc5c8e96.jpg",
+      type: "restaurant",
+    },
+  },
+  {
+    id: 2,
+    imageUrl:
+      "https://i.pinimg.com/564x/66/69/aa/6669aa09bc7baabaf050f80c86416806.jpg",
+    name: "Ramen Noodles",
+    description:
+      "A bowl of ramen noodles with a side of vegetables and a drizzle of soy sauce. Served with a side of rice and a drizzle of sesame oil.",
+    price: 2000,
+    currency: "HUF",
+    rating: 2.5,
+    reviewCount: 10,
+    ingredients: [
+      "Ramen",
+      "Noodles",
+      "Vegetables",
+      "Soy Sauce",
+      "Rice",
+      "Sesame Oil",
+    ],
+    allergens: ["Gluten", "Soy", "Nuts", "Fish"],
+    prepTime: 15,
+    cookTime: 20,
+    totalTime: 35,
+    serving: "2 serving",
+    store: {
+      storeId: 2,
+      name: "K-Ramen",
+      address: "123 Main Street, Anytown, USA",
+      phone: "555-123-4567",
+      website: "https://k-ramen.eu/",
+      profilePictureUrl:
+        "https://i.pinimg.com/564x/d3/06/00/d30600e777a542db82d2aeb22254e0d9.jpg",
+      type: "restaurant",
+    },
+  },
+  {
+    id: 3,
+    imageUrl:
+      "https://i.pinimg.com/564x/eb/cb/b9/ebcbb960d5d992314b90ba13029e05b3.jpg",
+    name: "Ceasar Salad",
+    description:
+      "A bowl of Ceasar salad with a side of grilled chicken and a drizzle of olive oil. Served with a side of rice and a drizzle of sesame oil.",
+    price: 1800,
+    currency: "HUF",
+    rating: 3.5,
+    reviewCount: 5,
+    ingredients: [
+      "Ceasar",
+      "Salad",
+      "Grilled Chicken",
+      "Olive Oil",
+      "Rice",
+      "Sesame Oil",
+    ],
+    allergens: ["olives", "nuts", "fish"],
+    prepTime: 10,
+    cookTime: 20,
+    totalTime: 30,
+    serving: "2 serving",
+    store: {
+      storeId: 3,
+      name: "Vegan Garden Budapest",
+      address: "123 Main Street, Anytown, USA",
+      phone: "555-123-4567",
+      website: "https://vegangardenbudapest.com/hu/",
+      profilePictureUrl:
+        "https://vegangardenbudapest.com/wp-content/uploads/2023/03/Vegan-Garden-logo_dark-green-v3.png",
+      type: "restaurant",
+    },
+  },
+];

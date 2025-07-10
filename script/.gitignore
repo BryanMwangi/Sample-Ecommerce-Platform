@@ -1,0 +1,29 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Go workspace file
+go.work
+
+
+# local env files
+.env*.local
+.env
+
+#server logs
+server.log
+.dockerignore
+
+/Data/users.json
+
+/Certificates/*
+
+/Static/error.html
+
+/config/private.txt

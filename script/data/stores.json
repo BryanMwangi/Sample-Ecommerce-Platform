@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "Pizza Club",
+    "type": "restaurant",
+    "image": "https://play-lh.googleusercontent.com/qMewibe3u5Wvq3fBf3Ca3_QItjHCOKeGrOAzVXWxqzgRpMwxYlD5CA6M2M5L78SwNA",
+    "workingHours": {
+      "opening": "09:00",
+      "closing": "20:00"
+    },
+    "uid": "9702f13d-82bf-4658-8e08-12f45182152c"
+  },
+  {
+    "id": 2,
+    "name": "Burger Club",
+    "type": "restaurant",
+    "image": "https://eda.ua/images/506509-195-195-burger_club_harkov.jpg",
+    "workingHours": {
+      "opening": "10:00",
+      "closing": "20:00"
+    },
+    "uid": "6fb3a4ca-ea04-466a-91a3-a3237f7b6b4f"
+  },
+  {
+    "id": 3,
+    "name": "Saint Frank Coffee",
+    "type": "coffee_shop",
+    "image": "http://cdn.shopify.com/s/files/1/1578/1589/files/colorf-01_198x200.png",
+    "workingHours": {
+      "opening": "12:00",
+      "closing": "18:00"
+    },
+    "uid": "6de355b5-aada-4fcf-ab85-2b01536d9c21"
+  },
+  {
+    "id": 4,
+    "name": "Sushi Space",
+    "type": "restaurant",
+    "image": "https://image.freepik.com/free-vector/sushi-restaurant-logo_8169-12.jpg",
+    "workingHours": {
+      "opening": "08:00",
+      "closing": "20:00"
+    },
+    "uid": "976ec0ec-e9d6-45c9-983f-aa7886318787"
+  },
+  {
+    "id": 5,
+    "name": "Target",
+    "type": "supermarket",
+    "image": "https://1000logos.net/wp-content/uploads/2021/04/Target-logo.png",
+    "workingHours": {
+      "opening": "00:00",
+      "closing": "24:00"
+    },
+    "uid": "b25c92a4-9b3f-4a78-a562-2feeeae13cbf"
+  },
+  {
+    "id": 6,
+    "name": "Wallmart",
+    "type": "supermarket",
+    "image": "https://cdn.corporate.walmart.com/dims4/WMT/ea03f5e/2147483647/strip/true/crop/855x305+0+0/resize/1578x563!/quality/90/?url=https%3A%2F%2Fcdn.corporate.walmart.com%2F98%2F28%2F342ccbff478ab025592645fafcfc%2Fwalmart-logo.png",
+    "workingHours": {
+      "opening": "00:00",
+      "closing": "24:00"
+    },
+    "uid": "89fcb58c-d1b7-4ba1-8afa-dad62cf76127"
+  },
+  {
+    "id": 7,
+    "name": "Linea Caffe",
+    "type": "coffee_shop",
+    "image": "https://lineacaffe.com/wp-content/themes/lineacaffe/images/linea-logo.svg",
+    "workingHours": {
+      "opening": "07:00",
+      "closing": "19:00"
+    },
+    "uid": "9be66eb1-3e22-4d1d-b7c5-9ecee786a4e4"
+  },
+  {
+    "id": 5509,
+    "name": "Gastro Green",
+    "type": "bar",
+    "image": "http://www.gastromanager.hu/sites/default/files/gastrogreens_logo_low.jpg",
+    "workingHours": {
+      "opening": "07:30",
+      "closing": "20:00"
+    },
+    "uid": "e246b133-e5a8-40a8-9700-722b294ad5ed"
+  },
+  {
+    "id": 134,
+    "name": "ATB",
+    "type": "supermarket",
+    "image": "http://www.kharkovinfo.com/previews/atb.png",
+    "workingHours": {
+      "opening": "10:00",
+      "closing": "20:00"
+    },
+    "uid": "1ae4924d-ad53-4d16-ac8c-922cc19e0119"
+  },
+  {
+    "id": 3763,
+    "name": "Saint Frank Coffee",
+    "type": "restaurant",
+    "image": "https://media.licdn.com/dms/image/v2/C560BAQHoBrs1ERWhcA/company-logo_200_200/company-logo_200_200/0/1630650704189/saint_frank_coffee_logo?e=2147483647&v=beta&t=A5L-bWebEEsHKhFLl9qipmQIJZARCq4ml1jeKo8cZfM",
+    "workingHours": {
+      "opening": "08:00",
+      "closing": "17:00"
+    },
+    "uid": "6de355b5-aada-4fcf-ab85-2b01536d9c21"
+  },
+  {
+    "id": 4301,
+    "name": "Saint Frank Coffee",
+    "type": "bar",
+    "image": "https://media.licdn.com/dms/image/v2/C560BAQHoBrs1ERWhcA/company-logo_200_200/company-logo_200_200/0/1630650704189/saint_frank_coffee_logo?e=2147483647&v=beta&t=A5L-bWebEEsHKhFLl9qipmQIJZARCq4ml1jeKo8cZfM",
+    "workingHours": {
+      "opening": "10:30",
+      "closing": "19:30"
+    },
+    "uid": "6de355b5-aada-4fcf-ab85-2b01536d9c21"
+  },
+  {
+    "id": 1679,
+    "name": "Sushia",
+    "type": "sushi_shop",
+    "image": "https://sushia.fr/image/customer/sushia_fr/deco/2.png",
+    "workingHours": {
+      "opening": "08:00",
+      "closing": "18:00"
+    },
+    "uid": "8e8b03f7-5993-415c-ad5b-284e7f82ac0b"
+  },
+  {
+    "id": 4867,
+    "name": "Pizza Club",
+    "type": "supermarket",
+    "image": "https://play-lh.googleusercontent.com/qMewibe3u5Wvq3fBf3Ca3_QItjHCOKeGrOAzVXWxqzgRpMwxYlD5CA6M2M5L78SwNA",
+    "workingHours": {
+      "opening": "09:00",
+      "closing": "20:00"
+    },
+    "uid": "9702f13d-82bf-4658-8e08-12f45182152c"
+  },
+  {
+    "id": 1352,
+    "name": "Bistro",
+    "type": "shop",
+    "image": "https://logopond.com/logos/936fb12d35d4bb7f4f9d6c3085caa4e4.png",
+    "workingHours": {
+      "opening": "10:00",
+      "closing": "18:30"
+    },
+    "uid": "3e5806bd-5d4c-4bfb-8cfd-ea62927a2e2b"
+  },
+  {
+    "id": 1103,
+    "name": "Pizza Club",
+    "type": "coffee_shop",
+    "image": "https://play-lh.googleusercontent.com/qMewibe3u5Wvq3fBf3Ca3_QItjHCOKeGrOAzVXWxqzgRpMwxYlD5CA6M2M5L78SwNA",
+    "workingHours": {
+      "opening": "07:00",
+      "closing": "19:30"
+    },
+    "uid": "9702f13d-82bf-4658-8e08-12f45182152c"
+  },
+  {
+    "id": 2965,
+    "name": "Burger Club",
+    "type": "restaurant",
+    "image": "https://eda.ua/images/506509-195-195-burger_club_harkov.jpg",
+    "workingHours": {
+      "opening": "10:00",
+      "closing": "17:00"
+    },
+    "uid": "6fb3a4ca-ea04-466a-91a3-a3237f7b6b4f"
+  },
+  {
+    "id": 417,
+    "name": "Saint Frank Coffee",
+    "type": "restaurant",
+    "image": "http://cdn.shopify.com/s/files/1/1578/1589/files/colorf-01_198x200.png",
+    "workingHours": {
+      "opening": "07:00",
+      "closing": "19:30"
+    },
+    "uid": "6de355b5-aada-4fcf-ab85-2b01536d9c21"
+  },
+  {
+    "id": 4384,
+    "name": "ATB",
+    "type": "supermarket",
+    "image": "http://www.kharkovinfo.com/previews/atb.png",
+    "workingHours": {
+      "opening": "07:00",
+      "closing": "20:00"
+    },
+    "uid": "1ae4924d-ad53-4d16-ac8c-922cc19e0119"
+  },
+  {
+    "id": 4476,
+    "name": "Sushi Space",
+    "type": "restaurant",
+    "image": "https://image.freepik.com/free-vector/sushi-restaurant-logo_8169-12.jpg",
+    "workingHours": {
+      "opening": "10:00",
+      "closing": "20:00"
+    },
+    "uid": "976ec0ec-e9d6-45c9-983f-aa7886318787"
+  },
+  {
+    "id": 185,
+    "name": "Gastro Green",
+    "type": "restaurant",
+    "image": "http://www.gastromanager.hu/sites/default/files/gastrogreens_logo_low.jpg",
+    "workingHours": {
+      "opening": "08:00",
+      "closing": "20:00"
+    },
+    "uid": "e246b133-e5a8-40a8-9700-722b294ad5ed"
+  }
+]

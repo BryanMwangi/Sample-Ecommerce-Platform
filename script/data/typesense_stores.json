@@ -1,0 +1,182 @@
+[
+  {
+    "id": 3,
+    "uuid": "00000000-0000-0000-0000-000000000000",
+    "name": "Saint Frank Coffee",
+    "profilePicture": "http://cdn.shopify.com/s/files/1/1578/1589/files/colorf-01_198x200.png",
+    "createdAt": "",
+    "updatedAt": "",
+    "type": "coffee_shop"
+  },
+  {
+    "id": 4,
+    "uuid": "00000000-0000-0000-0000-000000000000",
+    "name": "Sushi Space",
+    "profilePicture": "https://image.freepik.com/free-vector/sushi-restaurant-logo_8169-12.jpg",
+    "createdAt": "",
+    "updatedAt": "",
+    "type": "restaurant"
+  },
+  {
+    "id": 7,
+    "uuid": "00000000-0000-0000-0000-000000000000",
+    "name": "Linea Caffe",
+    "profilePicture": "https://lineacaffe.com/wp-content/themes/lineacaffe/images/linea-logo.svg",
+    "createdAt": "",
+    "updatedAt": "",
+    "type": "coffee_shop"
+  },
+  {
+    "id": 5509,
+    "uuid": "00000000-0000-0000-0000-000000000000",
+    "name": "Gastro Green",
+    "profilePicture": "http://www.gastromanager.hu/sites/default/files/gastrogreens_logo_low.jpg",
+    "createdAt": "",
+    "updatedAt": "",
+    "type": "bar"
+  },
+  {
+    "id": 134,
+    "uuid": "00000000-0000-0000-0000-000000000000",
+    "name": "ATB",
+    "profilePicture": "http://www.kharkovinfo.com/previews/atb.png",
+    "createdAt": "",
+    "updatedAt": "",
+    "type": "supermarket"
+  },
+  {
+    "id": 3763,
+    "uuid": "00000000-0000-0000-0000-000000000000",
+    "name": "Saint Frank Coffee",
+    "profilePicture": "https://media.licdn.com/dms/image/v2/C560BAQHoBrs1ERWhcA/company-logo_200_200/company-logo_200_200/0/1630650704189/saint_frank_coffee_logo?e=2147483647&v=beta&t=A5L-bWebEEsHKhFLl9qipmQIJZARCq4ml1jeKo8cZfM",
+    "createdAt": "",
+    "updatedAt": "",
+    "type": "restaurant"
+  },
+  {
+    "id": 4301,
+    "uuid": "00000000-0000-0000-0000-000000000000",
+    "name": "Saint Frank Coffee",
+    "profilePicture": "https://media.licdn.com/dms/image/v2/C560BAQHoBrs1ERWhcA/company-logo_200_200/company-logo_200_200/0/1630650704189/saint_frank_coffee_logo?e=2147483647&v=beta&t=A5L-bWebEEsHKhFLl9qipmQIJZARCq4ml1jeKo8cZfM",
+    "createdAt": "",
+    "updatedAt": "",
+    "type": "bar"
+  },
+  {
+    "id": 1679,
+    "uuid": "00000000-0000-0000-0000-000000000000",
+    "name": "Sushia",
+    "profilePicture": "https://sushia.fr/image/customer/sushia_fr/deco/2.png",
+    "createdAt": "",
+    "updatedAt": "",
+    "type": "sushi_shop"
+  },
+  {
+    "id": 4867,
+    "uuid": "00000000-0000-0000-0000-000000000000",
+    "name": "Pizza Club",
+    "profilePicture": "https://play-lh.googleusercontent.com/qMewibe3u5Wvq3fBf3Ca3_QItjHCOKeGrOAzVXWxqzgRpMwxYlD5CA6M2M5L78SwNA",
+    "createdAt": "",
+    "updatedAt": "",
+    "type": "supermarket"
+  },
+  {
+    "id": 1352,
+    "uuid": "00000000-0000-0000-0000-000000000000",
+    "name": "Bistro",
+    "profilePicture": "https://logopond.com/logos/936fb12d35d4bb7f4f9d6c3085caa4e4.png",
+    "createdAt": "",
+    "updatedAt": "",
+    "type": "shop"
+  },
+  {
+    "id": 1103,
+    "uuid": "00000000-0000-0000-0000-000000000000",
+    "name": "Pizza Club",
+    "profilePicture": "https://play-lh.googleusercontent.com/qMewibe3u5Wvq3fBf3Ca3_QItjHCOKeGrOAzVXWxqzgRpMwxYlD5CA6M2M5L78SwNA",
+    "createdAt": "",
+    "updatedAt": "",
+    "type": "coffee_shop"
+  },
+  {
+    "id": 417,
+    "uuid": "00000000-0000-0000-0000-000000000000",
+    "name": "Saint Frank Coffee",
+    "profilePicture": "http://cdn.shopify.com/s/files/1/1578/1589/files/colorf-01_198x200.png",
+    "createdAt": "",
+    "updatedAt": "",
+    "type": "restaurant"
+  },
+  {
+    "id": 4384,
+    "uuid": "00000000-0000-0000-0000-000000000000",
+    "name": "ATB",
+    "profilePicture": "http://www.kharkovinfo.com/previews/atb.png",
+    "createdAt": "",
+    "updatedAt": "",
+    "type": "supermarket"
+  },
+  {
+    "id": 4476,
+    "uuid": "00000000-0000-0000-0000-000000000000",
+    "name": "Sushi Space",
+    "profilePicture": "https://image.freepik.com/free-vector/sushi-restaurant-logo_8169-12.jpg",
+    "createdAt": "",
+    "updatedAt": "",
+    "type": "restaurant"
+  },
+  {
+    "id": 185,
+    "uuid": "00000000-0000-0000-0000-000000000000",
+    "name": "Gastro Green",
+    "profilePicture": "http://www.gastromanager.hu/sites/default/files/gastrogreens_logo_low.jpg",
+    "createdAt": "",
+    "updatedAt": "",
+    "type": "restaurant"
+  },
+  {
+    "id": 2,
+    "uuid": "00000000-0000-0000-0000-000000000000",
+    "name": "Burger Club",
+    "profilePicture": "https://images.unsplash.com/photo-1565607569011-577f0785694f?q=80&w=2365&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "createdAt": "",
+    "updatedAt": "",
+    "type": "restaurant"
+  },
+  {
+    "id": 2965,
+    "uuid": "00000000-0000-0000-0000-000000000000",
+    "name": "Burger Club",
+    "profilePicture": "https://images.unsplash.com/photo-1565607569011-577f0785694f?q=80&w=2365&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "createdAt": "",
+    "updatedAt": "",
+    "type": "restaurant"
+  },
+  {
+    "id": 5,
+    "uuid": "00000000-0000-0000-0000-000000000000",
+    "name": "Target",
+    "profilePicture": "https://1000logos.net/wp-content/uploads/2017/06/Target-logo-1.png",
+    "createdAt": "",
+    "updatedAt": "",
+    "type": "supermarket"
+  },
+  {
+    "id": 6,
+    "uuid": "00000000-0000-0000-0000-000000000000",
+    "name": "Wallmart",
+    "profilePicture": "https://media.bio.site/sites/cfa9f667-9249-431c-ba6b-606dfad55571/2JHDxCnUMnyCQQ5gX9NtzJ.png",
+    "createdAt": "",
+    "updatedAt": "",
+    "type": "supermarket"
+  },
+  {
+    "id": 1,
+    "uuid": "00000000-0000-0000-0000-000000000000",
+    "name": "Pizza Club",
+    "profilePicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzL0C49NDgxrw-4OK_cKSiS_CauHUSgyIpIA&s",
+    "createdAt": "",
+    "updatedAt": "",
+    "type": "restaurant"
+  }
+]
